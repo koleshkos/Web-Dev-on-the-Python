@@ -1,2 +1,2 @@
-# Web-Dev-on-the-Python
-I create siteы on the Python
+# Python Web development
+I create sites on the Python
